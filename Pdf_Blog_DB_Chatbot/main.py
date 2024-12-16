@@ -6,7 +6,9 @@ import io
 
 from langchain_community.chat_models import ChatOpenAI
 from pypdf import PdfReader
+from altair import Chart
 
+from langchain.document_loaders import TextLoader
 from langchain_community.llms import openai
 from streamlit_chat import message
 from langchain.text_splitter import RecursiveCharacterTextSplitter
