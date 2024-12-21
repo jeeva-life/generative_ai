@@ -1,0 +1,2 @@
+# generative_ai
+exploring RAG, LLAMAINDEX, AGENTS, LANGCHAIN, LANGRAPH, VECTOR_DB
